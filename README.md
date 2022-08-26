@@ -1,6 +1,6 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-project/master)
 ```
-Roberto Nogueira  
+Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
@@ -16,9 +16,9 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-[ ] Foreword
-[ ] Preface
-[ ] Introduction
+[x] Foreword
+[x] Preface
+[1] Introduction
 [ ] Chapter 1:The Gospel
 [ ] Chapter 2:The Goal
 [ ] Chapter 3:The Procedure
