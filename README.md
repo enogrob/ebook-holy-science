@@ -18,7 +18,7 @@ Learn everything you need to about the subject of this `eBook` project.
 ```
 [x] Foreword
 [x] Preface
-[1] Introduction
+[x] Introduction
 [ ] Chapter 1:The Gospel
 [ ] Chapter 2:The Goal
 [ ] Chapter 3:The Procedure
